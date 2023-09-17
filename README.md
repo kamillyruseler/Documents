@@ -5,8 +5,8 @@ Repositório criado para guardar exercícios sobre ponteiros e paralelização e
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Ponteiros]
-   * [Pthreads]
+   * Ponteiros
+   * Pthreads
 <!--te-->
 
 Alguns exercícios foram exercitados a partir das aulas desta playlist:
